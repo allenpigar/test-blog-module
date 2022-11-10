@@ -1,43 +1,5 @@
 
-  - id: "61d2-55a7-858d"
-    web:
-      metaDescription: ""
-      metaTitle: "Lifestyle"
-      metaLinkText: "Lifestyle"
-      metaKeywords: null
-      pathPart: "lifestyle"
-      path: "/blog/category-page/lifestyle/"
-      sitemapPriority: -1
-      canonicalTagMode: 1
-      canonicalQueryParamWhitelist: null
-      canonicalTagCustomValue: null
-      parent: "/blog/category-page/"
-    meta:
-      sort: 114
-      listed: true
-    data:
-      category_name: "Lifestyle"
-      sort_order: 2
-  - id: "60f1-6cb0-d8d9"
-    web:
-      metaDescription: ""
-      metaTitle: "Business"
-      metaLinkText: "Business"
-      metaKeywords: null
-      pathPart: "business"
-      path: "/blog/category-page/business/"
-      sitemapPriority: -1
-      canonicalTagMode: 1
-      canonicalQueryParamWhitelist: null
-      canonicalTagCustomValue: null
-      parent: "/blog/category-page/"
-    meta:
-      sort: 113
-      listed: true
-    data:
-      category_name: "Business"
-      sort_order: 1
-  - id: "108a-da15-2763"
+  - id: "7099-6efd-549d"
     web:
       metaDescription: ""
       metaTitle: "Technology"
@@ -51,8 +13,46 @@
       canonicalTagCustomValue: null
       parent: "/blog/category-page/"
     meta:
-      sort: 112
+      sort: 115
       listed: true
     data:
       category_name: "Technology"
       sort_order: null
+  - id: "73d5-3d9a-ceb4"
+    web:
+      metaDescription: ""
+      metaTitle: "Business"
+      metaLinkText: "Business"
+      metaKeywords: null
+      pathPart: "business"
+      path: "/blog/category-page/business/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/blog/category-page/"
+    meta:
+      sort: 114
+      listed: true
+    data:
+      category_name: "Business"
+      sort_order: 1
+  - id: "3053-8e96-6748"
+    web:
+      metaDescription: ""
+      metaTitle: "Lifestyle"
+      metaLinkText: "Lifestyle"
+      metaKeywords: null
+      pathPart: "lifestyle"
+      path: "/blog/category-page/lifestyle/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/blog/category-page/"
+    meta:
+      sort: 113
+      listed: true
+    data:
+      category_name: "Lifestyle"
+      sort_order: 2

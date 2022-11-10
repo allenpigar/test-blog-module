@@ -262,7 +262,7 @@
         label: "Author"
         description: ""
         datatype: "one_to_one"
-        sort: 7
+        sort: 5
         required: false
         relationship:
           name: "authors"
@@ -273,7 +273,7 @@
         label: "Article Tags"
         description: ""
         datatype: "one_to_many"
-        sort: 8
+        sort: 6
         required: false
         relationship:
           name: "tag"
@@ -284,7 +284,7 @@
         label: "Date"
         description: ""
         datatype: "date"
-        sort: 9
+        sort: 7
         required: false
         relationship: null
         settings:
@@ -293,7 +293,7 @@
         label: "Article Category"
         description: ""
         datatype: "one_to_many"
-        sort: 10000
+        sort: 8
         required: false
         relationship:
           name: "categories"
