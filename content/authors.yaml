@@ -1,0 +1,21 @@
+
+  - id: "234d-44c2-1c29"
+    web:
+      metaDescription: ""
+      metaTitle: "John Doe"
+      metaLinkText: "John Doe"
+      metaKeywords: null
+      pathPart: "john-doe"
+      path: "/blog/authors-page/john-doe/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/blog/authors-page/"
+    meta:
+      sort: 115
+      listed: true
+    data:
+      authors_email: "example@noreply.com"
+      authors_image: "https://rndhrw0l.media.zestyio.com/dev-1.jpg"
+      authors_name: "John Doe"

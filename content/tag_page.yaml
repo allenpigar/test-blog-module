@@ -1,0 +1,20 @@
+
+  - id: "cd55-e0b4-859b"
+    web:
+      metaDescription: ""
+      metaTitle: "Tag Page"
+      metaLinkText: "Tag Page"
+      metaKeywords: null
+      pathPart: "tag-page"
+      path: "/blog/tag-page/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/blog/"
+    meta:
+      sort: 3
+      listed: true
+    data:
+      tag_page_description: "<p>List of Tags</p>"
+      tag_page_title: "Tags"

@@ -1,0 +1,20 @@
+
+  - id: "726b-73ef-4d16"
+    web:
+      metaDescription: ""
+      metaTitle: "Category Page"
+      metaLinkText: "Category Page"
+      metaKeywords: null
+      pathPart: "category-page"
+      path: "/blog/category-page/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/blog/"
+    meta:
+      sort: 1
+      listed: true
+    data:
+      category_page_description: "<p>List of all categories</p>"
+      category_page_title: "Categories"
